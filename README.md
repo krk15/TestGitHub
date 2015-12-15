@@ -1,2 +1,3 @@
 # TestGitHub
-Practicing git hub
+Practicing git hub--first practices
+It's fun!
